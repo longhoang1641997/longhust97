@@ -1,4 +1,9 @@
 import QtQuick 2.0
+Rectagle{
+id: textbox
+height: 90
+width: 90
+}
 
 Rectangle{
     property alias visibleLogin:  loginInterface.visible
